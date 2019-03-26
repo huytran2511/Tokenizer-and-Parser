@@ -1,8 +1,3 @@
-/*
-Name: Huy Tran          Red ID: 818608122
-Name: Alex Gutierrez    Red ID: 821394815
- */
-
 package edu.sdsu.cs;
 import java.io.*;
 import java.nio.file.*;
